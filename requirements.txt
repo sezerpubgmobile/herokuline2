@@ -118,7 +118,7 @@ urwid==2.0.1
 wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
-wiki==0.5
+wiki==0.7.9
 wikiapi==1.2.5
 wikipedia==1.4.0
 wsproto==0.14.1
